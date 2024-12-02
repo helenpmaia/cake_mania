@@ -1,0 +1,135 @@
+main {
+  min-height: 80vh;
+}
+
+h3 {
+  padding: 1rem 0;
+}
+
+h1 {
+  font-size: 1.8rem;
+  padding: 1rem 0;
+}
+
+h2 {
+  font-size: 1.4rem;
+  padding: 0.5rem 0;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+/*apresentação*/
+.apresentacao-center{
+  display: flex;
+  align-items: center;
+}
+/* carousel */
+.carousel-item-next,
+.carousel-item-prev,
+.carousel-item.active {
+  display: flex;
+}
+.carousel-caption {
+  position: absolute;
+  top: 0;
+}
+
+.carousel-caption h2 {
+  color: #fff;
+}
+
+.carousel img {
+  height: 500px;
+  padding: 50px;
+  margin: 40px 30px 20px 0px;
+  border-radius: 18%;
+}
+.carousel a {
+  margin: 0 auto;
+}
+
+#basic-navbar-nav {
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.btn-light {
+  border: 1px solid #ddd;
+  border-radius: 12%;
+}
+
+/* .py-3 {
+  padding-top: 0px !important;
+} */
+
+@media only screen and (max-width: 600px) {
+  .carousel img {
+    height: 400px;
+  }
+}
+#basic-navbar-nav form{
+    position: relative;
+    width: 300px;
+  }
+  #basic-navbar-nav button{
+  position: absolute;
+    border: none;
+    color: #fff ;
+    font-size: 20px;
+  right:10px;
+    top: 2px;
+  margin:0;
+  }
+  .btn-primary{
+    background: #f57c8c;
+    border-radius: 25px;}
+    header #basic-navbar-nav .navbar-nav a{
+      font-size: 1rem;
+     color: #f57c8c;
+    font-weight: bold;
+  }
+  header #basic-navbar-nav form input.form-control.ml-sm-5::placeholder{
+    color: #fff;
+    opacity: 1;
+  }
+  header #basic-navbar-nav form input.form-control.ml-sm-5{
+    margin: 0;
+    color: #fff;
+    opacity: 1;
+    background: #f57c8c;
+    margin-left: 0 !important;
+    margin-right: 0;
+    width: 100% !important;
+  
+}
+.carousel-inner .carousel-item{
+    max-width: 100%;
+    
+    }
+    .carousel-inner .carousel-item a {
+      display: flex;
+      box-sizing: border-box;
+      position: relative;
+      overflow: hidden;
+      flex-wrap: wrap;
+      flex-direction: row;
+    }
+    .carousel-inner .carousel-item a  img {
+      margin: 30px 10px ;
+      width: 50%;
+      max-width: 300px;
+      height: auto;
+      padding: 0;
+    }
+    .carousel-inner .carousel-item a .carousel-caption  h2 {
+      color: #000;
+      font-size: 20px !important;
+    }
+    .carousel-inner .carousel-item a .carousel-caption {
+      display: flex;align-items: center;
+      position: relative;
+      right: unset !important; 
+      left: unset;
+      top: unset;
+    }

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "password": "$2a$10$64UskioAHGMOtco3sSRKCOSVcn46J12I9znhiYrB7.J6U7jralMbi",
+  "isAdmin": true
+},
+{
+  "_id": {
+    "$oid": "674d014744634d8985d16560"
+  },
+  "name": "Helen Maia",
+  "email": "helen.maia@gmail.com",
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "674d014744634d8985d16561"
+  },
+  "name": "Gabrieli Maia",
+  "email": "gabimaia@gmail.com",
+  "password": "123456"
+},
+{
+  "_id": {
+    "$oid": "674d0212ff188f9ff0bda5bf"
+  },
+  "isAdmin": false,
+  "name": "helen maia",
+  "email": "helenpmaia@hotmail.com",
+  "password": "$2a$10$64UskioAHGMOtco3sSRKCOSVcn46J12I9znhiYrB7.J6U7jralMbi",
+  "createdAt": {
+    "$date": "2024-12-02T00:40:50.579Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T00:49:45.591Z"
+  },
+  "__v": 0
+}]

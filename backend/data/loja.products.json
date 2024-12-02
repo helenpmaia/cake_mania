@@ -1,0 +1,513 @@
+[{
+  "_id": {
+    "$oid": "674d374550a8d66e64c227b8"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Cupcake de cenoura",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/uploads\\image-1733175692670.jpg",
+  "brand": "Sem açucares adicionados",
+  "category": {
+    "$oid": "674d28be17547768a8fae53f"
+  },
+  "description": "Cupcake de cenoura com chocolate sem açúcar",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T04:27:49.994Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T21:42:33.919Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d4f15c832293e4835b17e"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 12,
+  "countInStock": 2,
+  "name": "Cupcake de Tiramissu",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/uploads\\image-1733175777929.jpg",
+  "brand": "Gourmet",
+  "category": {
+    "$oid": "674d51b244634d8985d16576"
+  },
+  "description": "Cupcake dos sonhos, sabor tiramissu",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T06:09:25.965Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T21:43:37.346Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d7ffa03a7158da8dfd5f8"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 12,
+  "countInStock": 2,
+  "name": "Cupcake de Limão",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/uploads\\image-1733175890340.jpg",
+  "brand": "Gourmet",
+  "category": {
+    "$oid": "674d51b244634d8985d16576"
+  },
+  "description": "Cupcake gourmet de limão, com farofinha de biscoito crocante",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T09:38:02.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T21:45:19.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d802003a7158da8dfd608"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 15,
+  "countInStock": 2,
+  "name": "Cupcake Floresta Negra",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/uploads\\image-1733176030816.jpg",
+  "brand": "Gourmet",
+  "category": {
+    "$oid": "674d28be17547768a8fae53f"
+  },
+  "description": "Cupcake com sabor indescritível de cereja com chocolate ao fundo",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T09:38:40.426Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T21:47:27.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d919be3e2f75db0fcf50c"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 8,
+  "countInStock": 2,
+  "name": "Cupcake Chocolate com Morango",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/uploads\\image-1733176068560.jpg",
+  "brand": "Tradicional",
+  "category": {
+    "$oid": "674d51b244634d8985d16576"
+  },
+  "description": "Cupcake de chocolate, morango e baunilha com o melhor que a cake mania pode oferecer",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T10:53:15.521Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T21:48:36.455Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d91ecebbdab9ec8654f52"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 25,
+  "countInStock": 3,
+  "name": "Cupcake Especial de Natal",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/uploads\\image-1733176134394.jpg",
+  "brand": "Temático",
+  "category": {
+    "$oid": "674dfaebdbc7be8e2c2eed51"
+  },
+  "description": "Cupcake temático, sinta a beleza, delicadeza e o sabor que seu Natal merece",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T10:54:36.220Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T21:50:12.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d9210a1861711209c62c4"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T10:55:12.304Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:55:12.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d9249a1861711209c62d9"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T10:56:09.362Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T10:56:09.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d96b4d8f2e14ff855eeec"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d51b244634d8985d16576"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T11:15:00.776Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T11:15:10.266Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dee054199ab952c1c5a2e"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d51b244634d8985d16576"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:27:33.490Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T17:27:33.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674deee875ee224a8c71c7f8"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:31:20.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T17:31:20.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df1394a32778ef0943b5f"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:41:13.522Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T17:41:13.522Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df15953034361780beeaa"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:41:45.991Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T17:41:45.991Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df1c68730465ebc395972"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:43:34.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T17:43:34.187Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df523e23e22b4688adad6"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T17:57:55.446Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T17:57:55.446Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674df9134ee7726f48dc0623"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d51b244634d8985d16576"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T18:14:43.651Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T18:14:56.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dfa9a36a5d6988c285408"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "teste_categorias",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T18:21:14.628Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T18:21:29.027Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674e25e56a1dcea3584b141e"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T21:25:57.291Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T21:25:57.291Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674e2653a350473ea4888aa6"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 5,
+  "countInStock": 2,
+  "name": "Sample name",
+  "user": {
+    "$oid": "674d014744634d8985d1655f"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2024-12-02T21:27:47.092Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T21:27:47.092Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,75 @@
+[{
+  "_id": {
+    "$oid": "674d28be17547768a8fae53f"
+  },
+  "products": [],
+  "name": "Sem açúcar",
+  "description": "O doce sem açúcar mais aconchegante que você irá provar.",
+  "createdAt": {
+    "$date": "2024-12-02T03:25:50.021Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T04:19:03.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "products": [],
+  "name": "Temáticos",
+  "description": "teste",
+  "createdAt": {
+    "$date": "2024-12-02T04:23:09.169Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T04:27:06.561Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674d51b244634d8985d16576"
+  },
+  "name": "Tradicionais",
+  "description": "O clássico que nunca sai de moda! Cupcakes fofinhos, irresistíveis e cheios de sabor, perfeitos para qualquer momento.",
+  "products": [
+    "674d000644634d8985d1655b",
+    "674d000644634d8985d1655a"
+  ]
+},
+{
+  "_id": {
+    "$oid": "674dfaebdbc7be8e2c2eed51"
+  },
+  "name": "Gourmet",
+  "description": "Teste teste teste",
+  "products": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "createdAt": {
+    "$date": "2024-12-02T18:22:35.230Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T18:22:55.098Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "674dfbfe39ec1cacc06a5f58"
+  },
+  "name": "Salgados",
+  "description": "Sample Description",
+  "products": {
+    "$oid": "674d362d5f6b60ad74f1929e"
+  },
+  "createdAt": {
+    "$date": "2024-12-02T18:27:10.560Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T18:27:25.732Z"
+  },
+  "__v": 0
+}]

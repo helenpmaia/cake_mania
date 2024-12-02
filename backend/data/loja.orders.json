@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "674d022aff188f9ff0bda5c2"
+  },
+  "taxPrice": 13.5,
+  "shippingPrice": 100,
+  "totalPrice": 203.49,
+  "isPaid": false,
+  "isDelivered": false,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "674d022aff188f9ff0bda5c3"
+      },
+      "product": {
+        "$oid": "674d000644634d8985d16556"
+      },
+      "name": "Airpods Wireless Bluetooth Headphones",
+      "image": "/images/airpods.jpg",
+      "price": 89.99,
+      "qty": 1
+    }
+  ],
+  "user": {
+    "$oid": "674d0212ff188f9ff0bda5bf"
+  },
+  "shippingAddress": {
+    "address": "jewhkjefh",
+    "city": "jkwedfhjkefh",
+    "postalCode": "88355647",
+    "country": "wejkfhkjef"
+  },
+  "paymentMethod": "PayPal",
+  "createdAt": {
+    "$date": "2024-12-02T00:41:14.835Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-02T00:41:14.835Z"
+  },
+  "__v": 0
+}]
